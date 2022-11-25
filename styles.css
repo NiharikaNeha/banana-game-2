@@ -1,0 +1,14 @@
+#text, #output{
+    width: 80%;
+    margin: auto;
+    display: block;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+#btn {
+    margin: auto;
+    display: block;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
